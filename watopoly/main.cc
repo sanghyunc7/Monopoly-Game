@@ -314,6 +314,9 @@ int main(int argc, char* argv[]) {
 
         // this handles when a player leaves the game
         std::map<std::string, std::shared_ptr<Player>>::iterator it;
+        
+        //this was supposed to be for when players go bankrupt. The game should remove 
+        //such players. 
         /*
         if (playersfromLastRound.size() > g_playersInGame.size()) {
                 for (unsigned int j = 0; j < playersfromLastRound.size(); j++) {
