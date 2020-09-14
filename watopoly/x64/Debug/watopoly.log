@@ -1,0 +1,36 @@
+﻿  bank.cc
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\bank.cc(168,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  board.cc
+  building.cc
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\building.cc(19,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\building.cc(26,60): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  coop_fee.cc
+  dice.cc
+  goose_nesting.cc
+  go_to_tims.cc
+  main.cc
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\main.cc(56,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\main.cc(501,49): warning C4101: 'ia': unreferenced local variable
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\main.cc(509,49): warning C4101: 'ia': unreferenced local variable
+  needles_hall.cc
+  needles_hall_normal.cc
+  non_property.cc
+  osap.cc
+  player.cc
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\player.cc(249,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\player.cc(358,17): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\player.cc(366,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\player.cc(384,21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  property.cc
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\property.cc(180,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\property.cc(198,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\property.cc(218,49): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\property.cc(295,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  roll_up_rim.cc
+  slc.cc
+  slc_normal.cc
+  tims.cc
+  tuition.cc
+C:\Users\sangh\Documents\GitHub\Monopoly\watopoly\tuition.cc(14,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  watopoly.vcxproj -> C:\Users\sangh\Documents\GitHub\Monopoly\x64\Debug\watopoly.exe
